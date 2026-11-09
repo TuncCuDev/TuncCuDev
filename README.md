@@ -1,11 +1,15 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=200&section=header&text=Hey,%20I'm%20YOUR_NAME!&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Frontend%20Developer&descAlignY=58&descSize=18" width="100%" />
+
 ### 💻 Aspiring Frontend Developer | 🚀 Tech Enthusiast
 
 *Turning ideas into code and learning something new every day.*
 
 <br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -113,3 +117,4 @@ I'm currently working on improving my development skills through practical proje
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=100&section=footer" width="100%" />
 
 </div>
+
