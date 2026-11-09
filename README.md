@@ -8,9 +8,6 @@
 *Turning ideas into code and learning something new every day.*
 
 <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
-
 </div>
 
 ---
